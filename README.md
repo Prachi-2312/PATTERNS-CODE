@@ -3,7 +3,7 @@ Logic-based pattern programs to improve problem-solving and coding skills.
 <br>
 # Logic-Based Pattern Programs
 
-This repository contains a curated collection of logic-building pattern programs written in [C++]. These programs go beyond simple star or shape patterns and are designed to help you strengthen your logical thinking and problem-solving skills.
+This repository contains a curated collection of logic-building pattern programs written in C++. These programs go beyond simple star or shape patterns and are designed to help you strengthen your logical thinking and problem-solving skills.
 
 ## ✅ Included Patterns:
 - Different shape patterns
@@ -17,7 +17,7 @@ This repository contains a curated collection of logic-building pattern programs
 - Understanding nested loops, conditions, and recursion (where applicable)
 
 ## 🛠️ Languages Used:
-- [C++]
+- C++
 
 ## 🚀 Getting Started:
 Each program is self-contained. Simply run it using your preferred compiler or interpreter.
